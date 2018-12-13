@@ -1,3 +1,12 @@
+# eclipse and node
+.settings
+.project
+.classpath
+target/
+test-output/
+node_modules/**
+.orig
+
 # Compiled class file
 *.class
 
